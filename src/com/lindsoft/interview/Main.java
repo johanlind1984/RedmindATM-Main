@@ -29,13 +29,4 @@ public class Main {
         }
         return false;
     }
-
-//    private static void handOutTheCash(int thounsandBillsToHand, int fivhundredBillsToHand, int onehundredBillsToHand) {
-//        System.out.println("WITDRAWAL SUCCESS");
-//        System.out.println(thounsandBillsToHand + ", 1000 Bills");
-//        System.out.println(fivhundredBillsToHand + ", 500 Bills");
-//        System.out.println(onehundredBillsToHand + ", 100 Bills");
-//        System.out.print("TOTAL: ");
-//        System.out.println(thounsandBillsToHand * 1000 + fivhundredBillsToHand * 500 + onehundredBillsToHand * 100 + "\n");
-//    }
 }
